@@ -1,0 +1,10 @@
+Chaldini,Robert,"Psychology",2007,432,130
+Orwell,George,"1984",1949,321,140
+Dashvar,Luko,"Village",2008,267,115
+Brown,Dan,"Inferno",1999,487,150
+Chersky,Helen,"Storm",2013,241,135
+Franco,Ivan,"Zahar Berkut",1903,237,110
+King,Stephen,"Kerry",1996,198,120
+Obioma,Chigozi,"Fishermen",2014,352,125
+Dawkins,Richard,"Illusion",2006,435,190
+Lekhnyuk,Roman,"Ancient",2018,342,180
